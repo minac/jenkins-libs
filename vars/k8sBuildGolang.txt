@@ -1,11 +1,11 @@
 
-## Runs functional tests in Go
+## Runs gets dependencies, functional tests and builds in Go
 
-Executes the tests with `UnitTest` in their name and builds a binary
+Runs gets dependencies, functional tests and builds in Go
 
 **Arguments:**
 
-* **binary**: the name of the binary
+* **sourceFile**: the name of the input source file
 
 **Requirements:**
 
