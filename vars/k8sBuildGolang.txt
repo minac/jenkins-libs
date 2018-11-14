@@ -5,7 +5,7 @@ Runs gets dependencies, functional tests and builds in Go
 
 **Arguments:**
 
-* **sourceFile**: the name of the input source file
+* **outFile**: the name of the output file
 
 **Requirements:**
 
